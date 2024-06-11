@@ -1,0 +1,69 @@
+[
+    {
+      "Work Code": "E-001",
+      "Work Location": "123 Main St, Anytown, USA",
+      "Work Details": "Electrical Repair",
+      "Service Schedule": "13th May 2023",
+      "Invoice No.": "3543",
+      "Amount": "$320",
+      "Payment": "Done",
+      "Feedback": "Good",
+      "Open Ticket": "Open Ticket"
+    },
+    {
+      "Work Code": "H-002",
+      "Work Location": "456 Elm St, Somecity, USA",
+      "Work Details": "Heating Installation",
+      "Service Schedule": "14th May 2023",
+      "Invoice No.": "3544",
+      "Amount": "$500",
+      "Payment": "Pending",
+      "Feedback": "Average",
+       "Open Ticket": "Open Ticket"
+    },
+    {
+      "Work Code": "A-003",
+      "Work Location": "789 Oak St, Othertown, USA",
+      "Work Details": "Air Conditioning Repair",
+      "Service Schedule": "15th May 2023",
+      "Invoice No.": "3545",
+      "Amount": "$250",
+      "Payment": "Done",
+      "Feedback": "Excellent",
+       "Open Ticket": "Open Ticket"
+    },
+    {
+      "Work Code": "S-004",
+      "Work Location": "321 Pine St, Newtown, USA",
+      "Work Details": "Solar Panel Installation",
+      "Service Schedule": "16th May 2023",
+      "Invoice No.": "3546",
+      "Amount": "$800",
+      "Payment": "Pending",
+      "Feedback": "Good",
+       "Open Ticket": "Open Ticket"
+    },
+    {
+      "Work Code": "E-005",
+      "Work Location": "654 Maple St, Oldtown, USA",
+      "Work Details": "Electrical Wiring",
+      "Service Schedule": "17th May 2023",
+      "Invoice No.": "3547",
+      "Amount": "$400",
+      "Payment": "Done",
+      "Feedback": "Satisfactory",
+       "Open Ticket": "Open Ticket"
+    },
+    {
+      "Work Code": "H-006",
+      "Work Location": "987 Birch St, Sometown, USA",
+      "Work Details": "Heating Maintenance",
+      "Service Schedule": "18th May 2023",
+      "Invoice No.": "3548",
+      "Amount": "$300",
+      "Payment": "Pending",
+      "Feedback": "Poor",
+      "Open Ticket": "Open Ticket"
+    }
+  ]
+  
